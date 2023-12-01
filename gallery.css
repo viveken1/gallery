@@ -1,0 +1,18 @@
+.c{
+    width: 18%;
+    border: white solid 10px;
+    float: left;
+    background-color: black;
+}
+img{
+    width: 280px;
+    height: 300px;
+}
+p{
+    color: red;
+    padding: 8px;
+}
+h1{
+    color: green;
+    text-align: center;
+}
